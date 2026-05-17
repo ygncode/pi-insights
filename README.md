@@ -15,9 +15,11 @@ Beautiful analytics reports for your [pi coding agent](https://pi.dev) sessions.
 
 ## Preview
 
-![pi-insights overview](assets/pi-insights-01-overview.png)
+<video controls width="100%" src="https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/demo.mp4"></video>
 
-[Watch the demo video](assets/demo.mp4)
+If the embedded video does not render in your client, [watch the demo video](https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/demo.mp4).
+
+![pi-insights overview](assets/pi-insights-01-overview.png)
 
 More screenshots:
 
