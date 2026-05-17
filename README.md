@@ -17,6 +17,8 @@ Beautiful analytics reports for your [pi coding agent](https://pi.dev) sessions.
 
 ![pi-insights overview](assets/pi-insights-01-overview.png)
 
+[Watch the demo video](assets/demo.mp4)
+
 More screenshots:
 
 - [Models](assets/pi-insights-02-models.png)
@@ -96,6 +98,7 @@ This package is prepared for the [Pi package gallery](https://pi.dev/packages):
 - Pi package keyword: `pi-package`
 - Pi extension manifest: `pi.extensions = ["./index.ts"]`
 - Gallery image: `assets/pi-insights-01-overview.png`
+- Gallery video: `assets/demo.mp4`
 
 After publishing to npm, submit or list the package on <https://pi.dev/packages> using the npm package URL/name.
 

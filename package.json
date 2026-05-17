@@ -34,7 +34,8 @@
     "extensions": [
       "./index.ts"
     ],
-    "image": "https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/pi-insights-01-overview.png"
+    "image": "https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/pi-insights-01-overview.png",
+    "video": "https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/demo.mp4"
   },
   "scripts": {
     "build": "vite build",
