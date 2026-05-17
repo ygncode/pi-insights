@@ -1,0 +1,16 @@
+node_modules/
+coverage/
+.pi/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tgz
+.DS_Store
+.env
+.env.*
+!.env.example
+~/.pi/agent/insights-reports/
+
+# Keep dist/ committed: Pi npm/git package installs use the prebuilt UI.
