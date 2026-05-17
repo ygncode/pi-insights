@@ -13,6 +13,17 @@ Beautiful analytics reports for your [pi coding agent](https://pi.dev) sessions.
 - **Rage 🤬** — Profanity analytics: swear rate, filthiest model, peak hour, top words, and project breakdown
 - **Portable report** — Single self-contained HTML file; no server required, works from `file://`
 
+## Preview
+
+![pi-insights overview](assets/pi-insights-01-overview.png)
+
+More screenshots:
+
+- [Models](assets/pi-insights-02-models.png)
+- [Projects](assets/pi-insights-03-projects.png)
+- [Sessions](assets/pi-insights-04-sessions.png)
+- [Rage analytics](assets/pi-insights-05-rage.png)
+
 ## Install
 
 ### From npm
@@ -84,6 +95,7 @@ This package is prepared for the [Pi package gallery](https://pi.dev/packages):
 - GitHub repo: `https://github.com/ygncode/pi-insights`
 - Pi package keyword: `pi-package`
 - Pi extension manifest: `pi.extensions = ["./index.ts"]`
+- Gallery image: `assets/pi-insights-01-overview.png`
 
 After publishing to npm, submit or list the package on <https://pi.dev/packages> using the npm package URL/name.
 

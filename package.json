@@ -1,6 +1,6 @@
 {
   "name": "@ygncode/pi-insights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautiful analytics reports for pi coding-agent sessions.",
   "type": "module",
   "license": "MIT",
@@ -33,7 +33,8 @@
   "pi": {
     "extensions": [
       "./index.ts"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/ygncode/pi-insights/main/assets/pi-insights-01-overview.png"
   },
   "scripts": {
     "build": "vite build",
